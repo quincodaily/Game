@@ -1,2 +1,2 @@
-# Game
+# MonsterHaven
 Main game
